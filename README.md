@@ -1,7 +1,7 @@
-Olá. Me chamo Rafael. 
-Estou iniciando minha história como dev.
+Olá, me chamo Rafael e estou iniciando minha história como dev.  🖥️
 
-Atualmente estudando:
-HTML, CSS, JAVASCRIPT
+Atualmente estudando sobre: 
 
-GIT E GITHUB
+🚀 HTML, CSS, JAVASCRIPT
+
+🚀 GIT E GITHUB
