@@ -2,6 +2,6 @@ Olá, me chamo Rafael e estou iniciando minha história como dev.  🖥️
 
 Atualmente estudando sobre: 
 
-🚀 HTML, CSS, JAVASCRIPT
+🚀 C#
 
-🚀 GIT E GITHUB
+
