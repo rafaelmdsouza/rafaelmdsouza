@@ -1,9 +1,12 @@
-Olá, me chamo Rafael e estou iniciando minha história como dev.  🖥️
+Olá, me chamo Rafael.
+Atualmente estou trabalhando como Desenvolvedor Fullstack Jr! 🖥️
 
-Atualmente estudando sobre: 
+Atualmente estou estudando sobre:
 
-🚀 C#
+🚀 Angular
 
-☁️ Azure
+🚀 C#/.NET
+
+☁️ Azure e AWS
 
 
